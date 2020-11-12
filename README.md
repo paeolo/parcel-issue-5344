@@ -1,1 +1,9 @@
-# parcel-issue-6786
+## Github issue
+
+https://github.com/parcel-bundler/parcel/issues/5274
+
+## How to reproduce the issue?
+
+* yarn install
+* yarn build
+* See error and no types are emitted.
