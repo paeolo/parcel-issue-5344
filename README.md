@@ -1,6 +1,6 @@
 ## Github issue
 
-https://github.com/parcel-bundler/parcel/issues/5274
+https://github.com/parcel-bundler/parcel/issues/5344
 
 ## How to reproduce the issue?
 
